@@ -471,3 +471,12 @@ i{
         text-align: left!important;
     }
 }
+
+.name{
+    text-decoration: none;
+    color: #fff;
+}
+
+.name:hover{
+    color: #fff;
+}
